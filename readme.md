@@ -2,4 +2,4 @@
 
 
 ``` Python
-print("hello mars")
+print("hello Mars")

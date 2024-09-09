@@ -1,4 +1,5 @@
-# Testing git and github
+# Mars project. Before landing on the planet
+
 
 ``` Python
-print("hello world")
+print("hello mars")
